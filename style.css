@@ -36,12 +36,12 @@ body {
     border-radius: .9rem;
     padding: 1rem;
     text-align: center;
-    max-width: 22rem;
+    max-width: 19rem;
 }
 .qr-code {
     border-radius: inherit;
     overflow: hidden;
-    margin-bottom: 1.2rem;
+    margin-bottom: 1.4rem;
 }
 
 .qr-code img {
@@ -49,14 +49,14 @@ body {
     display: block;
 }
 
-h1 {
+h2 {
     color: var(--DARK-BLUE);
     margin-bottom: 1rem;
-    font-size: 1.6rem;
+    font-size: 1.4rem;
 }
 
 p {
-    font-size: 1.15rem;
+    /* font-size: 1.15rem; */
     color: var(--GRAYISH-BLUE);
     margin-bottom: 1.5rem;
 }
