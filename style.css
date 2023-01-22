@@ -34,7 +34,7 @@ body {
 .card {
     background: var(--WHITE);
     border-radius: .9rem;
-    padding: 1rem;
+    padding: 1.1rem;
     text-align: center;
     max-width: 20rem;
 }
@@ -56,7 +56,9 @@ h2 {
 }
 
 p {
-    /* font-size: 1.15rem; */
+    font-size: 1rem;
     color: var(--GRAYISH-BLUE);
     margin-bottom: 1.5rem;
+    margin-left: .5rem;
+    margin-right: .5rem;
 }
