@@ -36,7 +36,7 @@ body {
     border-radius: .9rem;
     padding: 1rem;
     text-align: center;
-    max-width: 17rem;
+    max-width: 22rem;
 }
 .qr-code {
     border-radius: inherit;
@@ -49,13 +49,14 @@ body {
     display: block;
 }
 
-h3 {
+h1 {
     color: var(--DARK-BLUE);
-    margin-bottom: .9rem;
+    margin-bottom: 1rem;
+    font-size: 1.6rem;
 }
 
 p {
-    font-size: .85rem;
+    font-size: 1.15rem;
     color: var(--GRAYISH-BLUE);
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
 }
